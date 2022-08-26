@@ -1,0 +1,14 @@
+C:\Users\rasmus.ankar\source\repos\repetition\repetition\bin\Debug\netcoreapp3.1\repetition.exe
+C:\Users\rasmus.ankar\source\repos\repetition\repetition\bin\Debug\netcoreapp3.1\repetition.deps.json
+C:\Users\rasmus.ankar\source\repos\repetition\repetition\bin\Debug\netcoreapp3.1\repetition.runtimeconfig.json
+C:\Users\rasmus.ankar\source\repos\repetition\repetition\bin\Debug\netcoreapp3.1\repetition.runtimeconfig.dev.json
+C:\Users\rasmus.ankar\source\repos\repetition\repetition\bin\Debug\netcoreapp3.1\repetition.dll
+C:\Users\rasmus.ankar\source\repos\repetition\repetition\bin\Debug\netcoreapp3.1\repetition.pdb
+C:\Users\rasmus.ankar\source\repos\repetition\repetition\obj\Debug\netcoreapp3.1\repetition.csproj.AssemblyReference.cache
+C:\Users\rasmus.ankar\source\repos\repetition\repetition\obj\Debug\netcoreapp3.1\repetition.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rasmus.ankar\source\repos\repetition\repetition\obj\Debug\netcoreapp3.1\repetition.AssemblyInfoInputs.cache
+C:\Users\rasmus.ankar\source\repos\repetition\repetition\obj\Debug\netcoreapp3.1\repetition.AssemblyInfo.cs
+C:\Users\rasmus.ankar\source\repos\repetition\repetition\obj\Debug\netcoreapp3.1\repetition.csproj.CoreCompileInputs.cache
+C:\Users\rasmus.ankar\source\repos\repetition\repetition\obj\Debug\netcoreapp3.1\repetition.dll
+C:\Users\rasmus.ankar\source\repos\repetition\repetition\obj\Debug\netcoreapp3.1\repetition.pdb
+C:\Users\rasmus.ankar\source\repos\repetition\repetition\obj\Debug\netcoreapp3.1\repetition.genruntimeconfig.cache
