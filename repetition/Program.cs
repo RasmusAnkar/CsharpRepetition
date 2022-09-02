@@ -358,13 +358,114 @@ namespace repetition
             }
             Console.WriteLine((totalnum- 1));
             */
-            /* Uppgift 38*/
+            /* Uppgift 38
+            int num = 1;
+            int negativenum = 0;
+            while (num != 0)
+            {
+                Console.WriteLine("write a number");
+                num = int.Parse(Console.ReadLine());
+                if (num < 0)
+                {
+                    negativenum++;
+                }
+               
+            }
+            Console.WriteLine("antal negative nummer "+ negativenum);
+            */
+            /* Uppgift 39
+            int num = 1;
+            int sum = 0;
+            while (num != 0)
+            {
+                Console.WriteLine("write a number");
+                num = int.Parse(Console.ReadLine());
+                sum = sum + num;
 
-            /* Uppgift 17*/
+            }
+            Console.WriteLine("your total sum is " + sum);
+            */
+            /* Uppgift 40
+            int num = 1;
+            int sum = 0;
+            int totalnum = 0;
+            while (num != 0)
+            {
+                Console.WriteLine("write a number");
+                num = int.Parse(Console.ReadLine());
+                sum = sum + num;
+                totalnum++;
 
-            /* Uppgift 17*/
+            }
+            Console.WriteLine("your total sum is " + sum);
+            Console.WriteLine("the amount of numbers is " + (totalnum- 1));
+            */
+            /* Uppgift 41
+            Console.WriteLine("write first number");
+            int num1 = int.Parse(Console.ReadLine());
+            Console.WriteLine("write second number");
+            int num2 = int.Parse(Console.ReadLine());
+            if (num1 == num2)
+            {
+                Console.WriteLine((num1 + num2)*4);
+            }
+            */
+            /* Uppgift 42
+            int num = 63;
+            Console.WriteLine("Choose N");
+            int num2 = int.Parse(Console.ReadLine());
+            if (num2 >= num)
+            {
+                Console.WriteLine("result " + (num - num2));
+            }
+            else
+            {
+                Console.WriteLine("result " + (num - num2)*2);
+            }
+            */
+            /* Uppgift 43
+            Console.WriteLine("First number");
+            int num1 = int.Parse(Console.ReadLine());
+            Console.WriteLine("Second number");
+            int num2 = int.Parse(Console.ReadLine());
+            if (num1 == 23 || num2 == 23)
+            {
+                Console.WriteLine("True");
+            }
+            */
+            /* Uppgift 44
+            Console.WriteLine("number");
+            double num = double.Parse(Console.ReadLine());
+            if (num%10 == 0)
+            {
+                Console.WriteLine("True");
+            }
+            */
+            /* Uppgift 45
+            Console.WriteLine("String");
+            String word = Console.ReadLine();
+            if (word[0] == 'i' && word[1] == 'f')
+            {
 
-            /* Uppgift 17*/
+            }
+            else
+            {
+                word = "if " + word;
+            }
+            Console.WriteLine(word);
+            */
+            /* Uppgift 46*/
+           
+            Console.WriteLine("how many numbers?");
+            int numbers = int.Parse(Console.ReadLine());
+            int[] arr = new int[numbers];
+            for (int i = 0; i < numbers; i++)
+            {
+                Console.WriteLine("write number " + i);
+                arr[i] = int.Parse(Console.ReadLine());
+            }
+            Array.Sort(arr);
+            Console.WriteLine(arr[numbers - 1]);
         }
     }
 }
